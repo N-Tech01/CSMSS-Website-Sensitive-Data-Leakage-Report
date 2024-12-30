@@ -20,6 +20,7 @@ This issue poses a significant risk to student privacy, and I believe it require
 
 ## Steps
 Use Google Dorks to search for unsecured directories and files containing sensitive information.
+report it
 
 **Disclaimer: Use this for educational purposes only.**
 
